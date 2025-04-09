@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+}
+
+body{
+    background-color: bisque;
+}
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(135, 126, 236);
+    height: 140px;
+}
+
+#titulo{
+    font-size: 60px;
+    color: orange;
+}
+
+.alinhados{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+}
